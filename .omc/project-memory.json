@@ -1,0 +1,132 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1773246307880,
+  "projectRoot": "/Users/admin/Desktop/oz-lecture",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "day-01": {
+      "path": "day-01",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1773246307864,
+      "keyFiles": []
+    },
+    "day01": {
+      "path": "day01",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1773246307864,
+      "keyFiles": [
+        "first.html",
+        "second.html"
+      ]
+    },
+    "day02": {
+      "path": "day02",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1773246307865,
+      "keyFiles": [
+        "form.html",
+        "multimedia.html",
+        "semantic.html",
+        "user-form.zip"
+      ]
+    },
+    "day03": {
+      "path": "day03",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1773246307865,
+      "keyFiles": [
+        "my-website.html",
+        "styles.css",
+        "user-form.zip"
+      ]
+    },
+    "day04": {
+      "path": "day04",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1773246307865,
+      "keyFiles": [
+        "display.html",
+        "float.html",
+        "my-view.html",
+        "portfolio.zip",
+        "position.html"
+      ]
+    },
+    "day05": {
+      "path": "day05",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1773246307865,
+      "keyFiles": [
+        "blog.zip"
+      ]
+    },
+    "day07": {
+      "path": "day07",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1773246307865,
+      "keyFiles": []
+    },
+    "day09": {
+      "path": "day09",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1773246307865,
+      "keyFiles": [
+        "index.html"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "day09/profile-generator/profile.js",
+      "accessCount": 6,
+      "lastAccessed": 1773246846254,
+      "type": "file"
+    },
+    {
+      "path": "day09/profile-generator/index.html",
+      "accessCount": 2,
+      "lastAccessed": 1773246842164,
+      "type": "file"
+    },
+    {
+      "path": "day09/profile-generator",
+      "accessCount": 1,
+      "lastAccessed": 1773246791687,
+      "type": "directory"
+    }
+  ],
+  "userDirectives": []
+}
