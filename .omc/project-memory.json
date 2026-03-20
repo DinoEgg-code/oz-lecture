@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1773701756125,
-  "projectRoot": "/Users/admin/Desktop/oz-lecture",
+  "lastScanned": 1773991192987,
+  "projectRoot": "/Users/admin/Desktop/OZ-4/oz-lecture",
   "techStack": {
     "languages": [],
     "frameworks": [],
@@ -32,18 +32,11 @@
   },
   "customNotes": [],
   "directoryMap": {
-    "day-01": {
-      "path": "day-01",
-      "purpose": null,
-      "fileCount": 1,
-      "lastAccessed": 1773701756112,
-      "keyFiles": []
-    },
     "day01": {
       "path": "day01",
       "purpose": null,
-      "fileCount": 2,
-      "lastAccessed": 1773701756113,
+      "fileCount": 3,
+      "lastAccessed": 1773991192971,
       "keyFiles": [
         "first.html",
         "second.html"
@@ -53,7 +46,7 @@
       "path": "day02",
       "purpose": null,
       "fileCount": 5,
-      "lastAccessed": 1773701756113,
+      "lastAccessed": 1773991192971,
       "keyFiles": [
         "form.html",
         "multimedia.html",
@@ -65,7 +58,7 @@
       "path": "day03",
       "purpose": null,
       "fileCount": 4,
-      "lastAccessed": 1773701756113,
+      "lastAccessed": 1773991192971,
       "keyFiles": [
         "my-website.html",
         "styles.css",
@@ -76,7 +69,7 @@
       "path": "day04",
       "purpose": null,
       "fileCount": 7,
-      "lastAccessed": 1773701756113,
+      "lastAccessed": 1773991192971,
       "keyFiles": [
         "display.html",
         "float.html",
@@ -89,7 +82,7 @@
       "path": "day05",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1773701756113,
+      "lastAccessed": 1773991192973,
       "keyFiles": [
         "blog.zip"
       ]
@@ -98,14 +91,14 @@
       "path": "day07",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1773701756113,
+      "lastAccessed": 1773991192973,
       "keyFiles": []
     },
     "day09": {
       "path": "day09",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1773701756114,
+      "lastAccessed": 1773991192973,
       "keyFiles": [
         "index.html"
       ]
@@ -114,7 +107,7 @@
       "path": "day10",
       "purpose": null,
       "fileCount": 2,
-      "lastAccessed": 1773701756114,
+      "lastAccessed": 1773991192973,
       "keyFiles": [
         "day10.js",
         "index.html"
@@ -124,7 +117,7 @@
       "path": "day11",
       "purpose": null,
       "fileCount": 5,
-      "lastAccessed": 1773701756114,
+      "lastAccessed": 1773991192973,
       "keyFiles": [
         "dowhile.js",
         "for.js",
@@ -136,17 +129,75 @@
     "day12": {
       "path": "day12",
       "purpose": null,
-      "fileCount": 8,
-      "lastAccessed": 1773701756114,
+      "fileCount": 7,
+      "lastAccessed": 1773991192973,
       "keyFiles": [
         "array.js",
         "date-math.js",
         "functional.js",
         "index.html",
-        "movies.js"
+        "object.js"
       ]
+    },
+    "day13": {
+      "path": "day13",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1773991192973,
+      "keyFiles": [
+        "add-node.html",
+        "control-node.html",
+        "event.html",
+        "keyboard-event.html"
+      ]
+    },
+    "day14": {
+      "path": "day14",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1773991192973,
+      "keyFiles": []
+    },
+    "day15": {
+      "path": "day15",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1773991192973,
+      "keyFiles": []
+    },
+    "day16": {
+      "path": "day16",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1773991192973,
+      "keyFiles": []
     }
   },
-  "hotPaths": [],
+  "hotPaths": [
+    {
+      "path": "day16/book-app/script.js",
+      "accessCount": 5,
+      "lastAccessed": 1773993889997,
+      "type": "file"
+    },
+    {
+      "path": "day16/book-app/index.html",
+      "accessCount": 2,
+      "lastAccessed": 1773993885409,
+      "type": "file"
+    },
+    {
+      "path": "day16/book-app",
+      "accessCount": 1,
+      "lastAccessed": 1773993851602,
+      "type": "directory"
+    },
+    {
+      "path": "day16/book-app/styles.css",
+      "accessCount": 1,
+      "lastAccessed": 1773993855552,
+      "type": "file"
+    }
+  ],
   "userDirectives": []
 }
